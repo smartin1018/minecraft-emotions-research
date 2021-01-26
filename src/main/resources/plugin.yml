@@ -1,0 +1,7 @@
+name: MinecraftResearch
+version: ${project.version}
+main: me.sagemartin.minecraftresearch.MinecraftResearch
+api-version: 1.16
+commands:
+  startproject:
+    description: "The only command in this plugin."
